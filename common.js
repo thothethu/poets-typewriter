@@ -69,8 +69,30 @@ const getPoems = async () => {
     "is_verified": true,
     "key": "thuyen_day_ntt",
     "poem": false,
-    "title": "Thuyền Đây"
-}
+    "title": "Truyện ngắn: Thuyền Đây"
+},
+  {
+    "author": "Nguyễn Thế Thủ",
+    "content": "Ông N. đau đầu từ mấy hôm nay, vì cái tính của bà nhà ông. Các lời nói như một cô đọng phiền trong tiểu thuyết của nhà văn thế còn ở một thời không xa làm ông bực tức mà không sao nói được. Bởi vì cãi bướng, làm ông sợ hàng xóm hiểu lầm về gia đình. Công việc đồng áng ông phó mặc cho cây với đất đai làm gì thì làm.\n*\nSáng ngày Tây Nguyên có điều mưa nên loại cỏ cây tha hồ đâm chồi qua nhiều vạt đất đỏ bazan màu mỡ. Ông thấy cái khổ của vùng, vì ngày trước ông từng sống ở một thời thanh xuân. Nhân sắc chẳng biết tâm tính không hòa hợp với nhau, thường đâm ra những chuyện không đầu vào đâu, chuyện nhỏ ra chuyện lớn. Tuy tuổi quá năm mươi tới nơi mà ông N. gắng nhẫn nhịn, nhưng không giải quyết được gì. Dùng một cái ông bỏ nhà đi, kiếm ăn ở nơi đất khách xa về một vùng biên giới miền Nam của Tổ quốc để sinh sống.\n*\nHai năm trôi qua, bà N. nhờ con cái tìm tin tức để đón ông về. Phương xa tìm thấy, thị ta than rầu đủ thứ. Con cái trong nhà cứ đổ thừa cho bà làm ông bỏ đi. Các việc nhà bà N. bắt đầu xuống cấp, người chăm nom chẳng được bao nhiêu. Trong lòng bà dằn dứt, không tránh được ai, tất cả cùng tại mình. Hồi chuông cảnh báo thực tế quá muộn màng. Bà đi tìm ông về để gia đình không thiếu hai năm gian truân dài. Anh ta tự kiếm ăn và dành dụm một số tiền tuy không lớn nhưng cũng tạm xài trong cả năm. Lúc về nhà anh đã đem đồ không được tử tế lại.\n*\nVề mặt buồn đã thở dài, vợ mình có ý thức gì tương lai. Bà N. ngỡ ngàng tưởng ông đường xa về không ngờ chị ta cầm cái xách vô giường. Nhìn thấy số bạc khá nhiều ấm ruột, nên chị ta dịu giọng xuống, bảo con cái dọn cơm nước, đưa cáp đồ cho ông thay để tắm rửa. Đường mấy hôm chắc là mất ngủ. Ông N. lưng thẳng, miệng móm mém cười. Chiều nay con cái trò chuyện vui vẻ, những mẩu chuyện cười lẫn nhau. Chị N. nhiều tiền mặt, ông N. nhiều ý cười hùn. Cả nhà vui như hồi mới cưới.\n*\nCả nhà cần sáng kiến mau kiếm tiền. Được số bạc vốn, bà N. mở một quán tạp hóa nhỏ, bán buôn nên ngày phát triển lên. Ông N. thì chăm vườn lại mua cá nấu nướng. Bệnh phức học cũng được khá, vợ chồng vui vẻ bên nhau, cuộc sống gia đình trở lại đầm ấm. Tối nằm bên nhau, ông khuyên vợ mình thay đổi nếp sống, bỏ bớt tính bộc phát để ăn nói. Bà nhìn ông mỉm một nụ cười hì.",
+    "is_verified": true,
+    "poem": false,
+    "key": "nhuong_toi_mot_chut_ntt",
+    "title": "Truyện ngắn: Nhượng tôi một chút"
+  },
+  {
+    "author": "Nguyễn Thế Thủ",
+    "content": "Đối vầng ánh, ai đưa lối em về\nAnh ngán ngẩm cảnh phim hoa diễm lệ\nTìm dư hương mộc mạc nếp chân quê.\n*\nTình yêu chân thật chẳng phũ phàng\nNối trao tay nghĩa lứa tình không hơn vàng\nKhông còn thấy cánh buồm thương dấu nẫu.\n*\nNở hoa thơm trái ngọt của muôn loài\nCó mùa xuân bông mai trao tin tới\nCó những bản tình ca đẹp đẽ chảy\nNơi thương mạc của đời vui mới\nThu một nửa cho anh sức sống mãi yêu đời.",
+    "is_verified": true,
+    "key": "tim_chut_huong_que",
+    "title": "Tìm chút hương quê"
+  },
+  {
+    "author": "Nguyễn Thế Thủ",
+    "content": "Rũ công danh trở về nơi xóm cũ\nBên đàn thơ, hoa cỏ, cánh đồng xưa\nĐể chiều chiều võng kẽo kẹt thông đưa\nĐêm trăng sáng thả thuyền đi câu cá.",
+    "is_verified": true,
+    "key": "tro_ve",
+    "title": "Trở về"
+  }
     ]
 }
 
