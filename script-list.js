@@ -10,6 +10,7 @@ getPoems()
             const li = document.createElement('li');
             li.innerHTML = `
                 <a href="./?key=${poem.key}">
+                    <i class="fa-solid fa-feather-pointed"></i>
                     <span class="poem-title">${poem.title}</span>
                 </a>`;
             poemsContainer.appendChild(li);

@@ -10,7 +10,7 @@ getPoem()
         var lines = poem.content.split("\n");
         lines = addBreaks(lines);
 
-        author.innerHTML = poem.author;
+        author.innerHTML = `Tác giả: ${poem.author}`;
         title.innerHTML = poem.title;
         if (poem.poem === false) {
             verses.innerHTML = lines;

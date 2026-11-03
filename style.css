@@ -184,3 +184,57 @@ bottom: 6px;
 right: 0.2rem;
 height: 140%;
 }
+
+
+/* Tắt dấu chấm tròn mặc định của danh sách */
+.poems-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+/* Định dạng từng dòng mục bài thơ */
+.poems-list li {
+    margin: 12px 0;
+    transition: transform 0.2s ease;
+}
+
+/* Hiệu ứng di chuột nổi nhẹ lên */
+.poems-list li:hover {
+    transform: translateX(6px);
+}
+
+/* Định dạng thẻ a (đường dẫn) */
+.poems-list a {
+    text-decoration: none;
+    color: #e0e0e0;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 12px; /* Khoảng cách giữa icon chiếc lông vũ và tên bài thơ */
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+/* Icon chiếc lông vũ nhỏ xinh thay cho dấu chấm */
+.poems-list a i {
+    color: #d4af37; /* Màu vàng đồng trang nhã, hợp với trang thơ */
+    font-size: 1rem;
+}
+
+/* Hiệu ứng đổi màu khi di chuột vào tên bài */
+.poems-list a:hover {
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.poem .author {
+    text-align: right;          /* Căn lề sang bên phải */
+    margin-top: 24px;           /* Khoảng cách phía trên so với nội dung thơ */
+    margin-right: 15%;          /* Lùi vào trong một chút so với mép phải để cân đối */
+    font-style: italic;         /* Định dạng chữ nghiêng cho mềm mại (tùy chọn) */
+    color: #b0b0b0;             /* Màu chữ dịu nhẹ hơn nội dung chính */
+    font-size: 1rem;
+}
