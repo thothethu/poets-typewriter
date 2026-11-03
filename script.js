@@ -12,7 +12,11 @@ getPoem()
 
         author.innerHTML = poem.author;
         title.innerHTML = poem.title;
-        typing(lines, verses);
+        if (poem.poem === false) {
+            verses.innerHTML = lines;
+        } else {
+            typing(lines, verses);
+        }
 
     })
     .catch(err => console.log(err.message))
