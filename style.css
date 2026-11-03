@@ -233,7 +233,7 @@ height: 140%;
 .poem .author {
     text-align: right;          /* Căn lề sang bên phải */
     margin-top: 24px;           /* Khoảng cách phía trên so với nội dung thơ */
-    margin-right: 15%;          /* Lùi vào trong một chút so với mép phải để cân đối */
+    margin-right: -69%;          /* Lùi vào trong một chút so với mép phải để cân đối */
     font-style: italic;         /* Định dạng chữ nghiêng cho mềm mại (tùy chọn) */
     color: #b0b0b0;             /* Màu chữ dịu nhẹ hơn nội dung chính */
     font-size: 1rem;
